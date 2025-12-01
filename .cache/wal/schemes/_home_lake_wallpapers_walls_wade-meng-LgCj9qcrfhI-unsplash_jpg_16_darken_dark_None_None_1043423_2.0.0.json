@@ -1,0 +1,28 @@
+{
+    "checksum": "bf7fc24d8d33d8e73eb3f87232b53d22",
+    "wallpaper": "/home/lake/wallpapers/walls/wade-meng-LgCj9qcrfhI-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0e19",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0b0e19",
+        "color1": "#b9762e",
+        "color2": "#be6a53",
+        "color3": "#bd7a5c",
+        "color4": "#874860",
+        "color5": "#be876b",
+        "color6": "#ba8b76",
+        "color7": "#8e9099",
+        "color8": "#5a5e6e",
+        "color9": "#F79E3E",
+        "color10": "#FE8E6F",
+        "color11": "#FDA37B",
+        "color12": "#B46180",
+        "color13": "#FEB48F",
+        "color14": "#F9BA9E",
+        "color15": "#c2c2c5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "ea88fdc90d20d36c063d2d20db206724",
+    "wallpaper": "/home/lake/wallpapers/walls/city-pixel-art-oq9843ema6vkwraf.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1e24",
+        "foreground": "#c3c6c8",
+        "cursor": "#c3c6c8"
+    },
+    "colors": {
+        "color0": "#0f1e24",
+        "color1": "#8a5763",
+        "color2": "#965a67",
+        "color3": "#866e8a",
+        "color4": "#a0686e",
+        "color5": "#a87373",
+        "color6": "#b18373",
+        "color7": "#92999c",
+        "color8": "#5e6d74",
+        "color9": "#B97485",
+        "color10": "#C8798A",
+        "color11": "#B393B8",
+        "color12": "#D68B93",
+        "color13": "#E19A9A",
+        "color14": "#ECAF9A",
+        "color15": "#c3c6c8"
+    }
+}

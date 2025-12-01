@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/lake/wallpapers/walls/ashim-d-silva-WeYamle9fDM-unsplash.jpg"
+let background = "#110a19"
+let foreground = "#c3c1c5"
+let cursor     = "#c3c1c5"
+
+" Colors
+let color0  = "#110a19"
+let color1  = "#9f4e21"
+let color2  = "#764243"
+let color3  = "#99553f"
+let color4  = "#b0632c"
+let color5  = "#ad6a47"
+let color6  = "#6f5168"
+let color7  = "#928e98"
+let color8  = "#63596e"
+let color9  = "#D5682D"
+let color10 = "#9E585A"
+let color11 = "#CC7255"
+let color12 = "#EB843B"
+let color13 = "#E78E5F"
+let color14 = "#946D8B"
+let color15 = "#c3c1c5"

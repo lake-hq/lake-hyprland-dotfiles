@@ -1,0 +1,28 @@
+{
+    "checksum": "2300c5cbb59d827dc72e273f097ef25e",
+    "wallpaper": "/home/lake/wallpapers/walls/dreamlike.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#172735",
+        "foreground": "#c5c9cc",
+        "cursor": "#c5c9cc"
+    },
+    "colors": {
+        "color0": "#172735",
+        "color1": "#464e7b",
+        "color2": "#6f5874",
+        "color3": "#047581",
+        "color4": "#138988",
+        "color5": "#7e6982",
+        "color6": "#967a8d",
+        "color7": "#989da1",
+        "color8": "#66727c",
+        "color9": "#5E68A4",
+        "color10": "#94769B",
+        "color11": "#069CAC",
+        "color12": "#1AB7B6",
+        "color13": "#A98DAE",
+        "color14": "#C8A3BC",
+        "color15": "#c5c9cc"
+    }
+}

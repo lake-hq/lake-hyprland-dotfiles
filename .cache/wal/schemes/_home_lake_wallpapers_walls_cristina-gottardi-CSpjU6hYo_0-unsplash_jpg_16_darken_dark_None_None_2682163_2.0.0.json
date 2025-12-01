@@ -1,0 +1,28 @@
+{
+    "checksum": "10ce73cb0d8235994dd18a874cc92f50",
+    "wallpaper": "/home/lake/wallpapers/walls/cristina-gottardi-CSpjU6hYo_0-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1b1f",
+        "foreground": "#c2c6c7",
+        "cursor": "#c2c6c7"
+    },
+    "colors": {
+        "color0": "#0d1b1f",
+        "color1": "#5a8a93",
+        "color2": "#5d9097",
+        "color3": "#848d87",
+        "color4": "#6c999e",
+        "color5": "#7fa2a4",
+        "color6": "#81a6a8",
+        "color7": "#90989b",
+        "color8": "#5c6c71",
+        "color9": "#78B8C5",
+        "color10": "#7DC0CA",
+        "color11": "#B0BCB5",
+        "color12": "#90CCD3",
+        "color13": "#AAD9DB",
+        "color14": "#ADDEE1",
+        "color15": "#c2c6c7"
+    }
+}

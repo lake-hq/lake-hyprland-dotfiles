@@ -1,0 +1,28 @@
+{
+    "checksum": "15a8ff7212dfe3dc9560a2813a94a4c4",
+    "wallpaper": "/home/lake/wallpapers/walls/Aloe.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201d0d",
+        "foreground": "#c7c6c2",
+        "cursor": "#c7c6c2"
+    },
+    "colors": {
+        "color0": "#201d0d",
+        "color1": "#3b4e42",
+        "color2": "#2e645d",
+        "color3": "#4b6458",
+        "color4": "#666f54",
+        "color5": "#2d6464",
+        "color6": "#536f6a",
+        "color7": "#9b9990",
+        "color8": "#716e5d",
+        "color9": "#4F6858",
+        "color10": "#3E867D",
+        "color11": "#658676",
+        "color12": "#899470",
+        "color13": "#3D8686",
+        "color14": "#6F948E",
+        "color15": "#c7c6c2"
+    }
+}

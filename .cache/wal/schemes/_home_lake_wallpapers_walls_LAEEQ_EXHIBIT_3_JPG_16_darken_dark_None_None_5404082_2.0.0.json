@@ -1,0 +1,28 @@
+{
+    "checksum": "da2b8e1b96c7f8f4b500a7ac5e7eca81",
+    "wallpaper": "/home/lake/wallpapers/walls/LAEEQ_EXHIBIT_3.JPG",
+    "alpha": "100",
+    "special": {
+        "background": "#151009",
+        "foreground": "#c4c3c1",
+        "cursor": "#c4c3c1"
+    },
+    "colors": {
+        "color0": "#151009",
+        "color1": "#4c4533",
+        "color2": "#664727",
+        "color3": "#6c5537",
+        "color4": "#54663d",
+        "color5": "#816c4b",
+        "color6": "#98876a",
+        "color7": "#97938d",
+        "color8": "#6c6358",
+        "color9": "#665C45",
+        "color10": "#885F35",
+        "color11": "#91724A",
+        "color12": "#718952",
+        "color13": "#AC9065",
+        "color14": "#CBB58E",
+        "color15": "#c4c3c1"
+    }
+}

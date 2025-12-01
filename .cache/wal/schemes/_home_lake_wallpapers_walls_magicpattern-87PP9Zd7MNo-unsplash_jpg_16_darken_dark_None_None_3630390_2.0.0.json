@@ -1,0 +1,28 @@
+{
+    "checksum": "6ce13ce0cde199eb6f0ca2adffce263c",
+    "wallpaper": "/home/lake/wallpapers/walls/magicpattern-87PP9Zd7MNo-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1c1e",
+        "foreground": "#c2c6c6",
+        "cursor": "#c2c6c6"
+    },
+    "colors": {
+        "color0": "#0c1c1e",
+        "color1": "#54726f",
+        "color2": "#748383",
+        "color3": "#6c8581",
+        "color4": "#7b918d",
+        "color5": "#838e90",
+        "color6": "#879694",
+        "color7": "#8f989a",
+        "color8": "#5c6e70",
+        "color9": "#709994",
+        "color10": "#9BAFAF",
+        "color11": "#90B2AD",
+        "color12": "#A4C2BC",
+        "color13": "#AFBEC0",
+        "color14": "#B5C9C6",
+        "color15": "#c2c6c6"
+    }
+}

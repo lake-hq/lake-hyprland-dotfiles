@@ -1,0 +1,28 @@
+{
+    "checksum": "2cb4f56920817cabe778f4c5fe94ad57",
+    "wallpaper": "/home/lake/wallpapers/walls/fabrizio-conti-_ZOdIeLfWMk-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d2017",
+        "foreground": "#c2c7c5",
+        "cursor": "#c2c7c5"
+    },
+    "colors": {
+        "color0": "#0d2017",
+        "color1": "#857C81",
+        "color2": "#7B8395",
+        "color3": "#9A96A6",
+        "color4": "#9493A8",
+        "color5": "#C2B3BF",
+        "color6": "#DBCAD1",
+        "color7": "#c2c7c5",
+        "color8": "#5d7168",
+        "color9": "#857C81",
+        "color10": "#7B8395",
+        "color11": "#9A96A6",
+        "color12": "#9493A8",
+        "color13": "#C2B3BF",
+        "color14": "#DBCAD1",
+        "color15": "#c2c7c5"
+    }
+}

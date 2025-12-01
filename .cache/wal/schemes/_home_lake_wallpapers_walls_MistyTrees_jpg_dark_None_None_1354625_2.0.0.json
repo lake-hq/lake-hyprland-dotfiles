@@ -1,0 +1,28 @@
+{
+    "checksum": "e0b39d8efb3a34d7d3ea5c8ea46621e5",
+    "wallpaper": "/home/lake/wallpapers/walls/MistyTrees.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d151f",
+        "foreground": "#c2c4c7",
+        "cursor": "#c2c4c7"
+    },
+    "colors": {
+        "color0": "#0d151f",
+        "color1": "#718BA8",
+        "color2": "#8B9FBA",
+        "color3": "#A5B5CC",
+        "color4": "#B9C6D6",
+        "color5": "#BACBE1",
+        "color6": "#C3CCDD",
+        "color7": "#c2c4c7",
+        "color8": "#5c6571",
+        "color9": "#718BA8",
+        "color10": "#8B9FBA",
+        "color11": "#A5B5CC",
+        "color12": "#B9C6D6",
+        "color13": "#BACBE1",
+        "color14": "#C3CCDD",
+        "color15": "#c2c4c7"
+    }
+}

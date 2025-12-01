@@ -1,0 +1,28 @@
+{
+    "checksum": "5711d74c209b16c7d9cfb717036e01bf",
+    "wallpaper": "/home/lake/wallpapers/walls/b8d7563fcd90b660f05358844380171b.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151509",
+        "foreground": "#c4c4c1",
+        "cursor": "#c4c4c1"
+    },
+    "colors": {
+        "color0": "#151509",
+        "color1": "#732c2a",
+        "color2": "#69574d",
+        "color3": "#726858",
+        "color4": "#956e57",
+        "color5": "#5a6061",
+        "color6": "#7b766f",
+        "color7": "#97978d",
+        "color8": "#6c6c58",
+        "color9": "#9A3B39",
+        "color10": "#8C7467",
+        "color11": "#988B76",
+        "color12": "#C79375",
+        "color13": "#798082",
+        "color14": "#A49E94",
+        "color15": "#c4c4c1"
+    }
+}
